@@ -1,0 +1,8 @@
+hms\kite\app\ussd\service\UssdSessionNotFoundException.class
+hms\kite\app\ussd\service\UssdMenuResolver.class
+hms\kite\app\ussd\menu\UssdMenu.class
+hms\kite\app\ussd\service\UssdService.class
+hms\kite\app\ussd\service\InMemoryUssdSessionRepo.class
+hms\kite\app\ussd\util\ConfigUtil.class
+hms\kite\app\ussd\service\UssdSessionManager.class
+hms\kite\app\ussd\service\UssdSessionRepo.class
